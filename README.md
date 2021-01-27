@@ -43,9 +43,9 @@ masukin command di bawah ini!
 
 ## fitur
 
-| características únicas | sim
+|karakter | sim
 | :---------------------------------------------: | :-----------: |
-|  Registrar nome e idade|✅|
+|  Registrasi nama|✅|
 |         Level    |✅|
 
 |  FAZ  |                                           sim |
