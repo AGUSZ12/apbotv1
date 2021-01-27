@@ -35,7 +35,7 @@ masukin command di bawah ini!
 > bash install.sh
 ```
 
-## atau
+## langkah selanjutnya ketik
 
 ```bash
 > npm start
