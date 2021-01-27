@@ -1,15 +1,15 @@
-### BOTE TERVERIFIKASI
+### HAI...I AM APBOT
 
 
-HAIII I'M APBOT
-https://images.app.goo.gl/3RXkNEFadW6G2T1R7
 
-## Ferramentas
+
+
+## dibutuhkan
 
 ```bash
 > Termux
 > WhatsApp
-> 2 Celulares
+> 2 hp untuk scanning
 ```
 
 ---
@@ -19,8 +19,8 @@ https://images.app.goo.gl/3RXkNEFadW6G2T1R7
 
 ---
 
-## Instalar
-Siga os passos abaixo!
+## cara Install
+masukin command di bawah ini!
 
 ```bash
 > termux-setup-storage
@@ -35,13 +35,13 @@ Siga os passos abaixo!
 > bash install.sh
 ```
 
-## Uso
+## atau
 
 ```bash
 > npm start
 ```
 
-## características
+## fitur
 
 | características únicas | sim
 | :---------------------------------------------: | :-----------: |
