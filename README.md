@@ -234,7 +234,7 @@ masukin command di bawah ini!
 
 
 
-## Agradecimentos especiais para
+## THANKS FOR YOU
 
 - [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys) 
 - [RyzRdy](https://github.com/RyzRdy)
