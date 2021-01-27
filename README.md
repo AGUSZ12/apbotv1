@@ -30,7 +30,7 @@ masukin command di bawah ini!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/MR-NC/apbotv1
+> git clone https://github.com/AGUSZ12/apbotv1
 > cd apbotv1
 > bash install.sh
 ```
