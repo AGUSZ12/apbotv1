@@ -24,14 +24,14 @@ masukin command di bawah ini!
 
 ```bash
 > termux-setup-storage
-(depois disso toque na permissão)
+(izinkan termux membaca memory telepon)
 > pkg install git
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/MR-NC/ToiniuBot.git
-> cd ToiniuBot
+> git clone https://github.com/MR-NC/apbotv1
+> cd apbotv1
 > bash install.sh
 ```
 
